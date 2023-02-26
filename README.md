@@ -31,7 +31,7 @@
 
   
 <h5>Currently Learning:
-"Next.js, Kubernetes and React Native
+[![Validate issue](https://github.com/vercel/next.js/actions/workflows/issue_validator.yml/badge.svg)](https://github.com/vercel/next.js/actions/workflows/issue_validator.yml)
 </h5>
 <h2>2023 Goals: ["Create 10+ Projects and learn at least 5 new Technologies.</h2>
 <h5>Hobbies:
@@ -40,7 +40,7 @@
  Cinema
  Automotive Customization
  Digital-Art
- 
+
 </h5>
 ---
 
