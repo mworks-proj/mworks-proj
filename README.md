@@ -17,31 +17,22 @@
 
 <h5>Intetrests:
   
-    Web3 Development
-    Javascript Frameworks
-    OpenAi / LLM
-    Defi Game Development
-    DevOps
+    Web3 Development | Javascript Frameworks | OpenAi / LLM | Defi Game Development | DevOps
   </h5>
 
 <h5>Technical Background:
   
-    "Web Design & Development",
-    "Web3 Consultant - MWorks Design",
+    Web Design & Development | Web3 Consultant - MWorks Design
   
 </h5> 
 
   
-<h5>Currently Learning: <b>Next.js</b>
+<h5>📜 Currently Learning: <b>Next.js - Solidity - React - TypeScript - LLM</b>
 </h5>
 <h2>2023 Goals: Create 5+ Projects and learn at least 3 new Technologies.</h2>
 <h5>Hobbies:
 
- Inspiring others
- Cinema
- Automotive Customization
- Digital-Art
-
+    Inspiring 🫵🏽 | Cinema 🎥 | Race-car Driver 🏎️ |  Digital-Art 🎨
 </h5>
 
 
