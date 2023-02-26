@@ -2,4 +2,3 @@
 
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=mworks-proj&count_private=true&show_icons=true&theme=chartreuse-dark&hide_rank=false)](https://github.com/mworks-proj/github-readme-stats)
 
-![snake png](https://github.com/mworks-proj/mworks-proj/blob/output/github-contribution-grid-snake.png)
