@@ -3,7 +3,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-name: Otto Burroughs
+<p align="center">name: Otto Burroughs</p>
 located_in: Lake Elsinore, Ca
 current_job: Web3 Dev / Consultant
 education:
