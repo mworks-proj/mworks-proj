@@ -1,5 +1,8 @@
 [![MWorks](https://github.com/mworks-proj/mworks-proj/actions/workflows/main.yml/badge.svg)](https://github.com/mworks-proj/mworks-proj/actions/workflows/main.yml)
 [![Validate issue](https://github.com/vercel/next.js/actions/workflows/issue_validator.yml/badge.svg)](https://github.com/vercel/next.js/actions/workflows/issue_validator.yml)
+[![NodeJS CI](https://github.com/primefaces/primereact/actions/workflows/node.js.yml/badge.svg)](https://github.com/primefaces/primereact/actions/workflows/node.js.yml)
+[![CodeQL](https://github.com/coinbase/coinbase-wallet-sdk/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/coinbase/coinbase-wallet-sdk/actions/workflows/codeql-analysis.yml)
+[![Build status](https://github.com/h5bp/html5-boilerplate/actions/workflows/test.yaml/badge.svg?branch=main)](https://github.com/h5bp/html5-boilerplate/actions/workflows/test.yaml)
 
 ![mworks-proj](https://github.com/mworks-proj/mworks-proj/blob/output/github-contribution-grid-snake.svg)
 
