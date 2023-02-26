@@ -1,7 +1,9 @@
 [![MWorks](https://github.com/mworks-proj/mworks-proj/actions/workflows/main.yml/badge.svg)](https://github.com/mworks-proj/mworks-proj/actions/workflows/main.yml)
+[![Validate issue](https://github.com/vercel/next.js/actions/workflows/issue_validator.yml/badge.svg)](https://github.com/vercel/next.js/actions/workflows/issue_validator.yml)
+
 ![mworks-proj](https://github.com/mworks-proj/mworks-proj/blob/output/github-contribution-grid-snake.svg)
 
-[![Validate issue](https://github.com/vercel/next.js/actions/workflows/issue_validator.yml/badge.svg)](https://github.com/vercel/next.js/actions/workflows/issue_validator.yml)
+
 
 <h2> 👨🏽‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
