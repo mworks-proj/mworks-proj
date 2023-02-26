@@ -1,13 +1,13 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
-name: MWorks
+name: mworks-proj
 
 # Controls when the action will run. This action runs every 6 hours.
 
 on:
   schedule:
       # every 6 hours
-    - cron: "0 */05 * * *"
+    - cron: "0 */24 * * *"
 
 # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
