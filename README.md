@@ -3,7 +3,7 @@
 
 [![Validate issue](https://github.com/vercel/next.js/actions/workflows/issue_validator.yml/badge.svg)](https://github.com/vercel/next.js/actions/workflows/issue_validator.yml)
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2> 👨🏽‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 <h5>Meister</h5>
 <h5>Lake Elsinore, Ca</h5>
