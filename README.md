@@ -34,7 +34,7 @@
   
 <h5>Currently Learning: <b>Next.js</b>
 </h5>
-<h2>2023 Goals: ["Create 10+ Projects and learn at least 5 new Technologies.</h2>
+<h2>2023 Goals: Create 10+ Projects and learn at least 5 new Technologies.</h2>
 <h5>Hobbies:
 
  Inspiring others"
@@ -43,7 +43,6 @@
  Digital-Art
 
 </h5>
----
 
 
 
