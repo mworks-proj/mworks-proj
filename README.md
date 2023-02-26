@@ -3,37 +3,33 @@
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-<p align="center">name: Otto Burroughs</p>
+<p align="left">name: Otto Burroughs</p>
 located_in: Lake Elsinore, Ca
 current_job: Web3 Dev / Consultant
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Self-Taught googel SEO",
+    "Bachelor's in Web Design & Development",
   ]
-company: Soulber
+company: Meister Works LLC
 
 fields_of_interests:
   [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
+    "Web3 Development",
+    "Javascript Frameworks",
+    "OpenAi / LLM",
+    "Defi Game Development",
     "DevOps",
   ]
 technical_background:
   [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Web Design & Development",
+    "Web3 Consultant - MWorks Design",
   ]
   
-currently_learning: ["Docker, Kubernetes and React Native"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+currently_learning: ["Next.js, Kubernetes and React Native"]
+2023 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Inspiring others", "Cinema", "Automotive Customization", "Digital-Art", ""]
 
   
 ---
