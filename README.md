@@ -13,7 +13,7 @@
     2007-2008 Self-Taught: Google SEO
     2012-2015 Full Sail University: Bachelor of Science in Web Design & Dev.
 </h5>  
-<h5>company: Meister Works LLC</h5>
+<h5>Company: Meister Works LLC</h5>
 
 <h5>Intetrests:
   
@@ -34,17 +34,15 @@
   
 <h5>Currently Learning: <b>Next.js</b>
 </h5>
-<h2>2023 Goals: Create 10+ Projects and learn at least 5 new Technologies.</h2>
+<h2>2023 Goals: Create 5+ Projects and learn at least 3 new Technologies.</h2>
 <h5>Hobbies:
 
- Inspiring others"
+ Inspiring others
  Cinema
  Automotive Customization
  Digital-Art
 
 </h5>
-
-
 
 
 
