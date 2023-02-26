@@ -1,6 +1,8 @@
 [![MWorks](https://github.com/mworks-proj/mworks-proj/actions/workflows/main.yml/badge.svg)](https://github.com/mworks-proj/mworks-proj/actions/workflows/main.yml)
 ![mworks-proj](https://github.com/mworks-proj/mworks-proj/blob/output/github-contribution-grid-snake.svg)
 
+[![Validate issue](https://github.com/vercel/next.js/actions/workflows/issue_validator.yml/badge.svg)](https://github.com/vercel/next.js/actions/workflows/issue_validator.yml)
+
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 <h5>Meister</h5>
@@ -30,8 +32,7 @@
 </h5> 
 
   
-<h5>Currently Learning:
-[![Validate issue](https://github.com/vercel/next.js/actions/workflows/issue_validator.yml/badge.svg)](https://github.com/vercel/next.js/actions/workflows/issue_validator.yml)
+<h5>Currently Learning: <b>Next.js</b>
 </h5>
 <h2>2023 Goals: ["Create 10+ Projects and learn at least 5 new Technologies.</h2>
 <h5>Hobbies:
