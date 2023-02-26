@@ -3,35 +3,45 @@
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-<p align="left">name: Otto Burroughs</p>
-located_in: Lake Elsinore, Ca
-current_job: Web3 Dev / Consultant
-education:
-  [
-    "Self-Taught googel SEO",
-    "Bachelor's in Web Design & Development",
-  ]
-company: Meister Works LLC
+<h5>Meister</h5>
+<h5>Lake Elsinore, Ca</h5>
+<h5>Web3 Dev / Consultant</h5>
+<h5>Education:
+  
+    2007-2008 Self-Taught: Google SEO
+    2012-2015 Full Sail University: Bachelor of Science in Web Design & Dev.
+</h5>  
+<h5>company: Meister Works LLC</h5>
 
-fields_of_interests:
-  [
-    "Web3 Development",
-    "Javascript Frameworks",
-    "OpenAi / LLM",
-    "Defi Game Development",
-    "DevOps",
-  ]
-technical_background:
-  [
+<h5>Intetrests:
+  
+    Web3 Development
+    Javascript Frameworks
+    OpenAi / LLM
+    Defi Game Development
+    DevOps
+  </h5>
+
+<h5>Technical Background:
+  
     "Web Design & Development",
     "Web3 Consultant - MWorks Design",
-  ]
   
-currently_learning: ["Next.js, Kubernetes and React Native"]
-2023 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Inspiring others", "Cinema", "Automotive Customization", "Digital-Art", ""]
+</h5> 
 
   
+<h5>Currently Learning:
+"Next.js, Kubernetes and React Native
+</h5>
+<h2>2023 Goals: ["Create 10+ Projects and learn at least 5 new Technologies.</h2>
+<h5>Hobbies:
+
+ Inspiring others"
+ Cinema
+ Automotive Customization
+ Digital-Art
+ 
+</h5>
 ---
 
 
