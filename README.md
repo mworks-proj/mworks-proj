@@ -3,10 +3,9 @@
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-yaml
-name: Piyush Malhotra
-located_in: Montreal, Quebec
-current_job: Full Stack Developer
+name: Otto Burroughs
+located_in: Lake Elsinore, Ca
+current_job: Web3 Dev / Consultant
 education:
   [
     "Self-Taught Developer and Designer",
