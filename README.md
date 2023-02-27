@@ -10,14 +10,16 @@
 
 <h2> 👨🏽‍💻 &nbsp;About Me and My Interests</h2>
 
-<h5>Meister</h5>
-<h5>Lake Elsinore, Ca</h5>
-<h5>Web3 Dev / Consultant</h5>
-<h5>Education:
+<h3>Meister</h3>
+<h3>New York, Ny</h3>
+<h3>Web3 Dev / Consultant</h3>
+<h3>Education:
   
-    2007-2008 Self-Taught: Google SEO
+    2007-2011 Self-Taught: Google SEO
     2012-2015 Full Sail University: Bachelor of Science in Web Design & Dev.
-</h5>  
+    2016-2019 Machine learning Google University 
+    2019-Current Web3/ Defi Blockchain Technology Advocate 
+</h3>  
 <h5>Company: Meister Works LLC</h5>
 
 <h4>Intetrests:
