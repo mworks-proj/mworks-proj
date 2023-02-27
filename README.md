@@ -8,7 +8,7 @@
 
 
 
-<h2> 👨🏽‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2> 👨🏽‍💻 &nbsp;About Me and My Interests</h2>
 
 <h5>Meister</h5>
 <h5>Lake Elsinore, Ca</h5>
@@ -20,10 +20,10 @@
 </h5>  
 <h5>Company: Meister Works LLC</h5>
 
-<h5>Intetrests:
+<h4>Intetrests:
   
     Web3 Development | Javascript Frameworks | OpenAi / LLM | Defi Game Development | DevOps
-  </h5>
+  </h4>
 
 <h5>Technical Background:
   
