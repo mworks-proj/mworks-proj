@@ -11,7 +11,6 @@
 <h2> 👨🏽‍💻 &nbsp;About Me and My Interests</h2>
 
 <h3>Meister</h3>
-<h3>New York, Ny</h3>
 <h3>Web3 Dev / Consultant</h3>
 <h3>Education:
   
