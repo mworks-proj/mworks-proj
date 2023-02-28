@@ -14,9 +14,9 @@
 <h3>Web3 Designer/ Developer &amp; Blockchain Consultant</h3>
 <h3>Education:
   
-    2019-Current Web3/ Defi Blockchain Technology Advocate - Ethernet/Polygon/XRPL/Cosmos
-    2016-2019 Machine learning Researc - Google University 
-    2012-2015 Bachelor of Science in Web Design & Development - Full Sail University: 
+    2019-Current Web3/ Defi Blockchain Technology Advocate - Ethernet Polygon XRPL Cosmos
+    2016-2019 Machine learning Research - Google University 
+    2012-2015 Bachelor of Science in Web Design & Development - Full Sail University 
     2007-2011 Search Engine Optimization Specialist - Google SEO University
     
 </h3>  
