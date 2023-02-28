@@ -14,23 +14,24 @@
 <h3>Web3 Designer/ Developer &amp; Blockchain Consultant</h3>
 <h3>Education:
   
-    2007-2011 Self-Taught: Google SEO
-    2012-2015 Full Sail University: Bachelor of Science in Web Design & Dev.
-    2016-2019 Machine learning Google University 
-    2019-Current Web3/ Defi Blockchain Technology Advocate 
+    2019-Current Web3/ Defi Blockchain Technology Advocate - Ethernet/Polygon/Ripple/Cosmos
+    2016-2019 Machine learning Researc - Google University 
+    2012-2015 Bachelor of Science in Web Design & Development - Full Sail University: 
+    2007-2011 Search Engine Optimization Specialist - Google SEO University
+    
 </h3>  
 <h5>Company: Meister Works LLC</h5>
 
-<h4>Intetrests:
+<h3>Intetrests:
   
     Web3 Development | Javascript Frameworks | OpenAi / LLM | Defi Game Development | DevOps
-  </h4>
+  </h3>
 
-<h5>Technical Background:
+<h3>Technical Background:
   
     Web Design & Development | Web3 Consultant - MWorks Design
   
-</h5> 
+</h3> 
 
   
 <h5>📜 Currently Learning: <b>Next.js - Solidity - React - TypeScript - LLM</b>
