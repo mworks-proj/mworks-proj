@@ -11,7 +11,7 @@
 <h2> 👨🏽‍💻 &nbsp;About Me and My Interests</h2>
 
 <h3>Meister</h3>
-<h3>Web3 Dev / Consultant</h3>
+<h3>Web3 Designer/ Developer &amp; Blockchain Consultant</h3>
 <h3>Education:
   
     2007-2011 Self-Taught: Google SEO
