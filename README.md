@@ -20,7 +20,7 @@
     2007-2011 Search Engine Optimization Specialist - Google SEO University
     
 </h3>  
-<h5>Company: Meister Works LLC</h5>
+<h5>Company: MWorks Web3</h5>
 
 <h3>Intetrests:
   
