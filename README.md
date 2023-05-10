@@ -9,7 +9,8 @@
 
 
 <h2> 👨🏽‍💻 &nbsp;About Me and My Interests</h2>
-
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <h3>Meister</h3>
 <h3>Web3 Designer/ Developer &amp; Blockchain Consultant</h3>
 <h3>Education:
