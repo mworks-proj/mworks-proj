@@ -8,8 +8,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-
-
 <h2> 👨🏽‍💻 &nbsp;About Me and My Interests</h2>
 
 <h3>Meister</h3>
