@@ -16,10 +16,10 @@
 <h3>Web3 Designer/ Developer &amp; Blockchain Consultant</h3>
 <h3>Education:
   
-    2019-Current Web3/ Defi Blockchain Technology Advocate - Ethernet Polygon XRPL Cosmos
-    2016-2019 Machine learning Research - Google University 
+    2019-Current Web3 Blockchain Technology Advocate - XRPL, EverNode, Hooks
+    2016-2019 Machine learning Research - Self Taught
     2012-2015 Bachelor of Science in Web Design & Development - Full Sail University 
-    2007-2011 Search Engine Optimization Specialist - Google SEO University
+    2007-2011 Search Engine Optimization Specialist - Mimo USA
     
 </h3>  
 <h5>Company: MWorks Web3</h5>
@@ -46,7 +46,7 @@
 
 
 
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=mworks-proj&count_private=true&show_icons=true&theme=chartreuse-dark&hide_rank=false)](https://github.com/mworks-proj/github-readme-stats)
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=mworks-proj&count_private=false&show_icons=true&theme=chartreuse-dark&hide_rank=true)](https://github.com/mworks-proj/github-readme-stats)
 
 
 
