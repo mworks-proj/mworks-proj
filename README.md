@@ -4,10 +4,7 @@
 [![NodeJS CI](https://github.com/primefaces/primereact/actions/workflows/node.js.yml/badge.svg)](https://github.com/primefaces/primereact/actions/workflows/node.js.yml)
 [![CodeQL](https://github.com/coinbase/coinbase-wallet-sdk/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/coinbase/coinbase-wallet-sdk/actions/workflows/codeql-analysis.yml)
 
-![mworks-proj](https://github.com/mworks-proj/mworks-proj/blob/output/github-contribution-grid-snake.svg)
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
 
 
 <h2> 👨🏽‍💻 &nbsp;About Me and My Interests</h2>
