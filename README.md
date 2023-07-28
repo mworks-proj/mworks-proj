@@ -6,7 +6,6 @@
 ![extension version](https://img.shields.io/github/package-json/v/GemWallet/gemwallet-extension?filename=%2Fpackages%2Fextension%2Fpackage.json)
 ![Build Status](https://img.shields.io/github/actions/workflow/status/GemWallet/gemwallet-extension/integration.yml)
 ![Last commit](https://img.shields.io/github/last-commit/GemWallet/gemwallet-extension)
-
 ![GitHub Views](https://komarev.com/ghpvc/?username=mworks-proj)
 
 
