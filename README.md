@@ -49,8 +49,10 @@
     Inspiring 🫵🏽 | Cinema 🎥 | Race-car Driver 🏎️ |  Digital-Art 🎨
 </h4>
 
-</details>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+</details>
+
 
 
 
