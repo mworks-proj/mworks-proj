@@ -4,7 +4,7 @@
  
 # 💎 [![Contributor](https://img.shields.io/badge/Contributor-14-orange.svg?style=flat-square)](#contributors-) ![extension version](https://img.shields.io/github/package-json/v/GemWallet/gemwallet-extension?filename=%2Fpackages%2Fextension%2Fpackage.json) ![Last commit](https://img.shields.io/github/last-commit/GemWallet/gemwallet-extension)
 
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=mworks-proj&count_private=false&show_icons=true&theme=chartreuse-dark&hide_rank=true)](https://github.com/mworks-proj/github-readme-stats)
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=mworks-proj&count_private=false&show_icons=true&theme=chartreuse-dark&hide_rank=false)](https://github.com/mworks-proj/github-readme-stats)
 
 
 
