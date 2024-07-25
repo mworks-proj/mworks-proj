@@ -37,7 +37,7 @@
 <h4>📜 Currently Learning: <b>Next.js - Solidity - React - TypeScript - LLM</b>
 </h4>
 
-<h4>2023 Goals: Create 5+ Projects and learn at least 3 new Technologies.</h4>
+<h4>2024 Goals: Scale 3+ Niche Business Web Applications by leveraging forward thinking technologies.</h4>
 <h4>Hobbies:
 
     Inspiring 🫵🏽 | Cinema 🎥 | Race-car Driver 🏎️ |  Digital-Art 🎨
