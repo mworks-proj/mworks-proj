@@ -90,7 +90,7 @@ This section **auto-updates** with your most active repos.
 
 # 🚀 Projects (expandable)
 
-Below are **collapsible Vercel-style sections** for each major system you’ve built.
+Below are **Projects that are under development or ideas** Feedback is welcomed.
 
 ---
 
