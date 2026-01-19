@@ -88,9 +88,9 @@ This section **auto-updates** with your most active repos.
 
 ---
 
-# 🚀 Projects (expandable)
+# 🚀 Meisters (projects)
 
-Below are **Projects that are under development or ideas** Feedback is welcomed.
+**Projects below are under dev** or comming soon.
 
 ---
 
