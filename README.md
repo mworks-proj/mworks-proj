@@ -14,7 +14,6 @@
   <!-- xMerch npm -->
   <img src="https://img.shields.io/npm/v/xmerch?label=xMerch" />
   <img src="https://img.shields.io/npm/dm/xmerch?label=downloads" />
-  <img src="https://img.shields.io/bundlephobia/minzip/xmerch?label=size" />
   <img src="https://img.shields.io/npm/l/xmerch" />
 
   <!-- GemWallet -->
