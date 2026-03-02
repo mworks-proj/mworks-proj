@@ -10,10 +10,10 @@ Building the commerce, deployment, and liquidity stack for XRPL / Xahau.
 
 ```mermaid
 flowchart LR
-  Dev[Developer] --> CLI[xMerch CLI]
-  CLI --> Commerce[xMerch Commerce]
-  Commerce --> Payments[XRPL / Xahau Payments]
-  Payments --> xDEX[xDEX Liquidity]
+  Developer --> xMerchCLI
+  xMerchCLI --> xMerchCommerce
+  xMerchCommerce --> XRPLXahauPayments
+  XRPLXahauPayments --> xDEXLiquidity
 ```
 
 Commerce → Deployment → Liquidity
@@ -27,9 +27,7 @@ Commerce → Deployment → Liquidity
 - Supabase Edge automation
 - Hook-ready architecture
 
-<a href="https://github.com/mworks-proj/xmerch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mworks-proj&repo=xmerch&hide_border=true" alt="xmerch repo card" />
-</a>
+[![xMerch repo card](https://raw.githubusercontent.com/mworks-proj/xmerch/main/public/og-image.png)](https://github.com/mworks-proj/xmerch)
 
 ## xMerch CLI
 - Starter templates
@@ -37,9 +35,7 @@ Commerce → Deployment → Liquidity
 - Fast onboarding
 - Deployment pipeline
 
-<a href="https://github.com/mworks-proj/xmerch-cli">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mworks-proj&repo=xmerch-cli&hide_border=true" alt="xmerch-cli repo card" />
-</a>
+[![xMerch CLI repo card](https://raw.githubusercontent.com/mworks-proj/xmerch-cli/main/public/og-image.png)](https://github.com/mworks-proj/xmerch-cli)
 
 ## xDEX
 - IOU issuance flows
@@ -47,9 +43,7 @@ Commerce → Deployment → Liquidity
 - Passive liquidity logic
 - Edge automation
 
-<a href="https://github.com/mworks-proj/xDex">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mworks-proj&repo=xDex&hide_border=true" alt="xDex repo card" />
-</a>
+[![xDEX repo card](https://raw.githubusercontent.com/mworks-proj/xDex/main/public/og-image.png)](https://github.com/mworks-proj/xDex)
 
 # 📈 Last 90 Days
 
